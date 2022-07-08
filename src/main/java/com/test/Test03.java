@@ -7,6 +7,7 @@ public class Test03 {
         System.out.println("aaaa");
         System.out.println("chage01");
         System.out.println("testtest");
+        System.out.println("hahah");
     }
 
 }
