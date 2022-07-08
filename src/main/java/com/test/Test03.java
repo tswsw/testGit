@@ -12,6 +12,8 @@ public class Test03 {
         System.out.println("master2chage");
         System.out.println("master3change");
         System.out.println("master4change");
+
+        System.out.println("master-change");
     }
 
 }
